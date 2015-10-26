@@ -1,10 +1,7 @@
 /* 
-Culminating Activity
-ICS4U1
 @author Stephen Yang
 @version 1.0
 @since 2015/01/15
-Teacher: Ms. Xie
 Program Name: Client.java
 Description: Client class is a class to store information about each and every client. In this class, it contains links to 3 more objects: Chequing, Savings, and Credit. Each of which, have values to indicate what accounts this account holder has. In addition, there is the Customer Menu in this class with it's supporting methods to go through any commands a customer might like to make with their account.
 */
