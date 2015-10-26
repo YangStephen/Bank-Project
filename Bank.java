@@ -1,10 +1,7 @@
 /* 
-Culminating Activity
-ICS4U1
 @author Stephen Yang
 @version 1.0
 @since 2015/01/15
-Teacher: Ms. Xie
 Program Name: Bank.java
 Description: Bank Class is the main class for which the ICS4U1 culminating in based off of. This class, the main menu(Administrative Menu) and it's required methods. In this menu, You have control over members, Sorting of the array, and searching ability to look throughout the array.
 */
