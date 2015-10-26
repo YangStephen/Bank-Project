@@ -1,10 +1,7 @@
 /* 
-Culminating Activity
-ICS4U1
 @author Stephen Yang
 @version 1.0
 @since 2015/01/15
-Teacher: Ms. Xie
 Program Name: Credit.java
 Description: Credit is a class used to store the data for a Client's chequing account. This class contains the required methods to initialize, withdraw, transfer and etc. from the Credit account.
 */
